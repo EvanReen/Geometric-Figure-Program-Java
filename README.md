@@ -6,6 +6,6 @@ This program finds the area of square, rectangle and circle using method overloa
 
 ## Output of this program
 
-Area of the square: 37.21 sq units
-Area of the rectangle: 220.0 sq units
-Area of the circle: 116.8394 sq unit
+- Area of the square: 37.21 sq units
+- Area of the rectangle: 220.0 sq units
+- Area of the circle: 116.8394 sq unit
